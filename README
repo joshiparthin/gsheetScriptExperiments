@@ -1,2 +1,7 @@
 This repo is about experiments with Google Sheets Scripts
 
+== Read data and send to API calls
+Example: https://github.com/joshiparthin/gsheetScriptExperiments/blob/master/readAndSendToApi.js
+Further Reading.
+http://kanssfer.guru/sending-data-google-sheets-using-google-scripts-via-api-calls/
+
