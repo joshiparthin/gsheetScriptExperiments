@@ -10,6 +10,11 @@ function testing_this() {
         };
         // sending to API. for example: 
         UrlFetchApp.fetch('https://track.customer.io/api/v1/customers/', options);
+        // var response = UrlFetchApp.getRequest("http://www.google.com/");
+        // for(data in response) {
+        //     var respData = response[data];
+        //     // do whatever u want to do with this data...
+        // }
     }
 }
 
